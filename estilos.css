@@ -2,12 +2,14 @@ body{
     background-color: #CCCCCC;
 }
 
-P{
+h1 {
+     text-align: center; 
+}
+
+P {
     text-align: center;
   }
 
-em p{ 
+em p { 
     color: red;
-}
-    
-
+} 
