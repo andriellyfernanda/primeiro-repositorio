@@ -3,8 +3,23 @@ body{
 }
 
 h1 {
-     text-align: center; 
+ text-align:center ;
 }
+ 
+ .principal{
+  background-color: #CCCCCC;
+  padding: 30px;
+ }
+
+ p{
+    text-align: center;
+ }
+
+ em p {
+    color: red;
+    }
+    .bene
+
 
 P {
     text-align: center;
