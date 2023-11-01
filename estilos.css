@@ -1,30 +1,88 @@
-body{
-    background-color: #CCCCCC;
+
+   
+body {
+ body {
+   
+}
+
+img {
+    width: 100%;
 }
 
 h1 {
- text-align:center ;
+    text-align: center;
 }
- 
- .principal{
-  background-color: #CCCCCC;
-  padding: 30px;
- }
 
- p{
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+p {
     text-align: center;
- }
+}
 
- em p {
+em strong {
     color: red;
-    }
-    .bene
+}
 
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
 
-P {
+h2 {
     text-align: center;
-  }
+}
 
-em strong { 
+.imagembeneficios {
+    width: 50%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}  
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
     color: red;
-} 
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    
