@@ -1,12 +1,16 @@
-header{
-    background-color: #CCCCCCC;
+
+header {
+    background: #CCCCCC;
 }
-navli{
+
+nav li {
     display: inline;
+}
 
-
-
-
-    
-
-    navli{
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight:  bold;
+    font-size: 22px;
+    text-decoration: none;
+}
